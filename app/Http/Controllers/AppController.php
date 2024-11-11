@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 class AppController extends Controller
 {
-    function b()
+    function z()
     {
         return null;
     }
